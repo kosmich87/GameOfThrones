@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Game Of Thrones</string>
+    <string name="internet_not_available">Интернет недоступен - приложение не может быть запущенно. Подключитесь к интернету и перезапустите приложение</string>
 </resources>
